@@ -12,7 +12,7 @@ header {
 
 main {
   display: flex;
-  flex-flow: space-between;
+  flex-flow: space-around;
   /*row wrap;*/
   justify-content: center;
   /*flex-wrap: wrap;*/
