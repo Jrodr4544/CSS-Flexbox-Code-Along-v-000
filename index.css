@@ -12,7 +12,8 @@ header {
 
 main {
   display: flex;
-  flex-flow: row wrap;
+  flex-flow: space-between;
+  /*row wrap;*/
   justify-content: center;
   /*flex-wrap: wrap;*/
   /*flex-direction: column;*/
